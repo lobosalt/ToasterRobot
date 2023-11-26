@@ -1,2 +1,4 @@
 # Godot 4+ specific ignores
 .godot/
+# Dont need duplicate data on the repo 
+*.blend1
